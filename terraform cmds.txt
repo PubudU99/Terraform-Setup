@@ -1,9 +1,0 @@
-alias tf=terraform
-
-tf init  // This initialize the terraform
-
-tf fmt   // This formats the files to correct order
-
-grep     // This uses to search specific patterns withing files or input streams
-
-
